@@ -108,7 +108,8 @@
     "webpack-notifier": "1.8.0",
     "webpack-visualizer-plugin": "0.1.11",
     "workbox-webpack-plugin": "4.3.1",
-    "write-file-webpack-plugin": "4.5.1"
+    "write-file-webpack-plugin": "4.5.1",
+    "node-sass": "latest"
   },
   "engines": {
     "node": ">=8.9.0"
