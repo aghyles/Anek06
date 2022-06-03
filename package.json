@@ -12,7 +12,7 @@
     "@angular/cdk": "latest",
     "@angular/common": "8.2.4",
     "@angular/compiler": "8.2.4",
-    "@angular/core": "^8.2.14",
+    "@angular/core": "^11.0.5",
     "@angular/flex-layout": "latest",
     "@angular/forms": "8.2.4",
     "@angular/material": "latest",
